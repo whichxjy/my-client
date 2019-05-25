@@ -33,7 +33,7 @@ git clone https://github.com/whichxjy/my-client.git
 cd my-client
 ```
 
-3. Create and initialize`xxgl` database in MySQL.
+3. Create and initialize `xxgl` database in MySQL.
 
 ```sql
 mysql> CREATE DATABASE xxgl;
